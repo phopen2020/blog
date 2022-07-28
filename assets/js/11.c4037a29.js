@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{413:function(t,n,s){"use strict";s.r(n);var o=s(2),e=Object(o.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("blockquote",[t("p",[this._v("给自己定一个目标，然后向着目标前进。")])])])}),[],!1,null,null,null);n.default=e.exports}}]);
